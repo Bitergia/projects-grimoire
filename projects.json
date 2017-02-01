@@ -1,0 +1,93 @@
+{
+    "GrimoireLab": {
+        "git": [
+            "https://github.com/grimoirelab/arthur", 
+            "https://github.com/grimoirelab/GrimoireELK", 
+            "https://github.com/grimoirelab/grimoirelab.github.io", 
+            "https://github.com/grimoirelab/panels", 
+            "https://github.com/grimoirelab/perceval", 
+            "https://github.com/grimoirelab/use_cases", 
+            "https://github.com/dicortazar/ceres", 
+            "https://github.com/sanacl/mordred"
+        ], 
+        "meta": {
+            "title": "grimoirelab"
+        }, 
+        "github": [
+            "https://github.com/grimoirelab/arthur.git", 
+            "https://github.com/grimoirelab/GrimoireELK.git", 
+            "https://github.com/grimoirelab/grimoirelab.github.io.git", 
+            "https://github.com/grimoirelab/panels.git", 
+            "https://github.com/grimoirelab/perceval.git", 
+            "https://github.com/grimoirelab/use_cases.git"
+        ]
+    }, 
+    "MetricsGrimoire": {
+        "git": [
+            "https://github.com/MetricsGrimoire/Automator", 
+            "https://github.com/MetricsGrimoire/Bicho", 
+            "https://github.com/MetricsGrimoire/CMetrics", 
+            "https://github.com/MetricsGrimoire/CVSAnalY", 
+            "https://github.com/MetricsGrimoire/eventizer", 
+            "https://github.com/MetricsGrimoire/IRCAnalysis", 
+            "https://github.com/MetricsGrimoire/MailingListStats", 
+            "https://github.com/MetricsGrimoire/MediaWikiAnalysis", 
+            "https://github.com/MetricsGrimoire/metricsgrimoire.github.com", 
+            "https://github.com/MetricsGrimoire/Octopus", 
+            "https://github.com/MetricsGrimoire/pullpo", 
+            "https://github.com/MetricsGrimoire/puppet-metricsgrimoire", 
+            "https://github.com/MetricsGrimoire/Reposaurs", 
+            "https://github.com/MetricsGrimoire/RepositoryHandler", 
+            "https://github.com/MetricsGrimoire/rremoval", 
+            "https://github.com/MetricsGrimoire/Sibyl", 
+            "https://github.com/MetricsGrimoire/sortinghat"
+        ], 
+        "meta": {
+            "title": "metricsgrimoire"
+        }, 
+        "github": [
+            "https://github.com/MetricsGrimoire/Automator.git", 
+            "https://github.com/MetricsGrimoire/Bicho.git", 
+            "https://github.com/MetricsGrimoire/CMetrics.git", 
+            "https://github.com/MetricsGrimoire/CVSAnalY.git", 
+            "https://github.com/MetricsGrimoire/eventizer.git", 
+            "https://github.com/MetricsGrimoire/IRCAnalysis.git", 
+            "https://github.com/MetricsGrimoire/MailingListStats.git", 
+            "https://github.com/MetricsGrimoire/MediaWikiAnalysis.git", 
+            "https://github.com/MetricsGrimoire/metricsgrimoire.github.com.git", 
+            "https://github.com/MetricsGrimoire/Octopus.git", 
+            "https://github.com/MetricsGrimoire/pullpo.git", 
+            "https://github.com/MetricsGrimoire/puppet-metricsgrimoire.git", 
+            "https://github.com/MetricsGrimoire/Reposaurs.git", 
+            "https://github.com/MetricsGrimoire/RepositoryHandler.git", 
+            "https://github.com/MetricsGrimoire/rremoval.git", 
+            "https://github.com/MetricsGrimoire/Sibyl.git", 
+            "https://github.com/MetricsGrimoire/sortinghat.git"
+        ]
+    }, 
+    "VizGrimoire": {
+        "git": [
+            "https://github.com/VizGrimoire/docker-vizgrimoire", 
+            "https://github.com/VizGrimoire/GrimoireLib", 
+            "https://github.com/VizGrimoire/GrimoireReports", 
+            "https://github.com/VizGrimoire/vizgrimoire.github.com", 
+            "https://github.com/VizGrimoire/VizGrimoireJS", 
+            "https://github.com/VizGrimoire/VizGrimoireJS-lib", 
+            "https://github.com/VizGrimoire/VizGrimoireR", 
+            "https://github.com/VizGrimoire/VizGrimoireUtils"
+        ], 
+        "meta": {
+            "title": "vizgrimoire"
+        }, 
+        "github": [
+            "https://github.com/VizGrimoire/docker-vizgrimoire.git", 
+            "https://github.com/VizGrimoire/GrimoireLib.git", 
+            "https://github.com/VizGrimoire/GrimoireReports.git", 
+            "https://github.com/VizGrimoire/vizgrimoire.github.com.git", 
+            "https://github.com/VizGrimoire/VizGrimoireJS.git", 
+            "https://github.com/VizGrimoire/VizGrimoireJS-lib.git", 
+            "https://github.com/VizGrimoire/VizGrimoireR.git", 
+            "https://github.com/VizGrimoire/VizGrimoireUtils.git"
+        ]
+    }
+}
